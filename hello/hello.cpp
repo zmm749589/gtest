@@ -2,8 +2,7 @@
 #include <iostream>
 
 int Hello() {
-
-    std::cout << "hello";
+    std::cout << "hello word";
 
     return 0;
 }
